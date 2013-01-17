@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="10" tilewidth="19" tileheight="33">
+ <tileset firstgid="1" name="hexabump" tilewidth="19" tileheight="33">
+  <image source="hexabump.png" width="19" height="33"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="26" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj2IgBgAWVgEF
+  </data>
+ </layer>
+</map>
